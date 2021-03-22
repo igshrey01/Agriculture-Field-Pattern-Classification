@@ -13,6 +13,13 @@ It contains 5 files:-
 The Sample Dataset conatins 4 folders namely,
 weed_cluster, waterway, standing_water and cloud_shadow
 corresponding to the field pattern images it contains. Each folder contains 12 images.
+
+
 Link to sample dataset used in this project : https://drive.google.com/drive/folders/1yDVnPi2uB9YvGX-7b0WHwrHcbLHqLC4L?usp=sharing
+
+
 Link to complete dataset used in this project : https://drive.google.com/drive/folders/1OWKZM6zhtIq_ex5vjawFF0PJ-JqNLHfK?usp=sharing
+
+
+
 
